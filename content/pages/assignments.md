@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ ASSIGNMENTS
 Matching Theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/a1))
+({{% resource_link 8a32ae5d-5e69-10b2-1150-a8e0457ddbbf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ Matching Theory
 Flow Theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/a2))
+({{% resource_link f4976657-4ae3-3bf5-e6c6-1b252607de98 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Flow Theory
 Convex Programming
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/a3))
+({{% resource_link 8d981f51-5b37-6fb2-85ae-b80b70f65f40 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Convex Programming
 Approximation Algorithms
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/a4))
+({{% resource_link d987017b-d1bb-2791-bf5f-af8251457054 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

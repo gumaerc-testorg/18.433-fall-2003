@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of additional references that students of
+  the course are encouraged to read.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ uid: 566c8f2d-84d2-882c-4d63-e192334487a9
 Additional References
 ---------------------
 
-In addition to the [lecture notes]({{< baseurl >}}/pages/lecture-notes), students are encouraged to read the additional references listed below:
+In addition to the {{% resource_link e493d9c5-e6e5-465c-9bc7-c590276187e5 "lecture notes" %}}, students are encouraged to read the additional references listed below:
 
 Lovasz, Laszlo. _Matching Theory_.
 
